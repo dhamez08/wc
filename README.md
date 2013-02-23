@@ -1,0 +1,4 @@
+wc
+==
+
+Webcamp Sample Exercise
